@@ -29,7 +29,7 @@ GoDB was born out of the curiosity to explore low-level database design while ta
 
 ```bash
 git clone https://github.com/Blank9999/GoDB.git
-cd Job-Application-Tracker-Extension
+cd GoDB
 ```
 
 ### 2. Run the Go Server
